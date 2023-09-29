@@ -1,0 +1,10 @@
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 579
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 579
+"GET / HTTP/1.1" 200 579
+"GET /about/ HTTP/1.1" 200 507
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 579
+"GET / HTTP/1.1" 200 579
+"GET /about/ HTTP/1.1" 200 507
